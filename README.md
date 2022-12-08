@@ -1,4 +1,4 @@
-# Radiative Transfer
+# Solutions of Chandrasekhar’s basic problem in radiative transfer via theory of functional connections
 We present a novel approach to solving Chandrasekhar’s problem in radiative transfer using the recently developed Theory of Functional Connections. The method is designed to elegantly and accurately solve the Linear Boundary Value Problem from the angular discretization of the integrodifferential Boltzmann equation for Radiative Transfer. The proposed algorithm falls under the category of numerical methods for the solution of radiative transfer equations. This new method’s accuracy is tested via comparison with the published benchmarks for Mie and Haze L scattering laws.
 
 For more information, please refer to the following: <br>
