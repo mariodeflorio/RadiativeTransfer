@@ -8,3 +8,16 @@ For more information, please refer to the following: <br>
 <li>De Florio, Mario, Enrico Schiassi, Roberto Furfaro, Barry D. Ganapol, and Domiziano Mostacci. "<a href="https://doi.org/10.1016/j.jqsrt.2020.107384">Solutions of Chandrasekhar’s basic problem in radiative transfer via theory of functional connections</a>." Journal of Quantitative Spectroscopy and Radiative Transfer 259 (2021): 107384.</li>
 </ul>
 
+## Citation
+
+    @article{de2021solutions,
+     title={Solutions of Chandrasekhar’s basic problem in radiative transfer via theory of functional connections},
+     author={De Florio, Mario and Schiassi, Enrico and Furfaro, Roberto and Ganapol, Barry D and Mostacci, Domiziano},
+     journal={Journal of Quantitative Spectroscopy and Radiative Transfer},
+     volume={259},
+     pages={107384},
+     year={2021},
+     publisher={Elsevier}
+    }
+
+  
