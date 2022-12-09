@@ -4,4 +4,7 @@ We present a novel approach to solving Chandrasekhar’s problem in radiative tr
 For more information, please refer to the following: <br>
 (https://github.com/mariodeflorio/RadiativeTransfer/)
 
-De Florio, Mario, Enrico Schiassi, Roberto Furfaro, Barry D. Ganapol, and Domiziano Mostacci. "<a href="https://doi.org/10.1016/j.jqsrt.2020.107384">Solutions of Chandrasekhar’s basic problem in radiative transfer via theory of functional connections</a>." Journal of Quantitative Spectroscopy and Radiative Transfer 259 (2021): 107384.
+<ul>
+<li>De Florio, Mario, Enrico Schiassi, Roberto Furfaro, Barry D. Ganapol, and Domiziano Mostacci. "<a href="https://doi.org/10.1016/j.jqsrt.2020.107384">Solutions of Chandrasekhar’s basic problem in radiative transfer via theory of functional connections</a>." Journal of Quantitative Spectroscopy and Radiative Transfer 259 (2021): 107384.</li>
+</ul>
+
